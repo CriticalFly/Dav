@@ -1,5 +1,5 @@
 {
-  "cleanUrls": true,
+  "cleanuris": true,
   "rewrites": [
     {
       "source": "/",
